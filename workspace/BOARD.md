@@ -17,7 +17,7 @@
 
 | work_id | 作業名 | 状態 | 現在地 | 最後に行ったこと | 次に行うこと | 詳細 |
 |---|---|---|---|---|---|---|
-| NAVI-ADMIN-001 | 外部自由領域 Admin 実装 | in_progress | Admin役割分離と進行管理ルールを実装済み | Adminを常駐型進行役としてv1.1へ更新 | 作業オブジェクト標準を実運用テストする | `workspace/work_object_template.md` |
+| NAVI-ADMIN-001 | 外部自由領域 Admin 実装 | in_progress | Admin役割分離・引き継ぎ責任・全AI共通の必須運用ルールまで実装済み | 寝落ち前までの進捗を正式なWork Objectとして記録 | 1件の実作業で「掲示板確認→引き継ぎ→作業→中間記録→終了記録」を一周テストする | `workspace/work_objects/NAVI-ADMIN-001.md` |
 
 ## Status Values
 
