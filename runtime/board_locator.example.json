@@ -1,0 +1,12 @@
+{
+  "backend": "file",
+  "locator": "REPLACE_WITH_EXTERNAL_FREE_REGION/NAVI_WORK_BOARD.md"
+}
+
+// HTTP backend example (use JSON without comments):
+// {
+//   "backend": "http",
+//   "read_url": "https://example.invalid/navi-work-board",
+//   "append_url": "https://example.invalid/navi-work-board/entries",
+//   "token_env": "NAVI_BOARD_TOKEN"
+// }
